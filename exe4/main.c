@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 const int LED_RED = 4;
-const int LED_GREEN = 5;
+const int LED_GREEN = 6;
 const int BTN_PIN_R = 28;
 const int BTN_PIN_G = 26;
 
